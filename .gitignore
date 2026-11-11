@@ -1,0 +1,11 @@
+accounts*.csv
+accounts_cli.csv
+captcha_pool.jsonl*
+cookies.json
+profile/
+*.log
+.venv/
+__pycache__/
+*.png
+ch/
+*.js
